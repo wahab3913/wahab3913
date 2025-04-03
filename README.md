@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Wahab Noor </h1>
-<p>A Passionate Full Stack Developer from </p>
+<p>A Passionate Full Stack Developer  </p>
 <h2>🚀 Languages and Tools I Use</h2>
 
 
